@@ -34,7 +34,7 @@ Skills: PYTHON & HTML & JAVA
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ichry0&layout=compact&theme=chartreuse-dark" />
 
 
-<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
+<img src="Screenshot_2024-12-05-22-58-12-592_com.miui.gallery-edit.jpg" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
 
 </p>
