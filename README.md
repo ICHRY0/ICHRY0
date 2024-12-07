@@ -7,7 +7,7 @@
 
 &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
 
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+<img src="Screenshot_2024-12-05-23-00-22-352_com.miui.gallery-edit.jpg" width="25">
 
 
 #### ICHRY0🥲 
