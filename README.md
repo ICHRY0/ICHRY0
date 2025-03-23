@@ -1,5 +1,5 @@
 ### Hi there 👋, I AM  RY ( ICHRY0) 
-<p align="center"><img src="https://img.shields.io/badge/I'M%20A BLACK HAT HACKER -green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/I'M%20A GRAY HAT HACKER -green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
 
